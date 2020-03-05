@@ -3,8 +3,13 @@ package com.basicprogram3;
 public class calculater {
 	static String brand = "ABC";
 	static int price = 650;
-	private static boolean ture;
-	static boolean icScientic = ture;
+	//private static boolean true;
+	
+	
+	
+	
+	
+	static boolean icScientic = true;
 	String owner = "kumar";
 
 	static void scitificCalculater() {
